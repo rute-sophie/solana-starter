@@ -10,5 +10,4 @@ In this repo I will add the code of the class exercices that I've done.
   - spl_transfer: [create destination ata](https://explorer.solana.com/tx/Z365TaSnxSCRvowma2LZcTV3jB7hQMvvdfGrLcARSdLLZYALrqLZcFCkPVuZd4nquj1tsCxPgHue8NYRFxfDqEw?cluster=devnet), [transfer](https://explorer.solana.com/tx/5sLRakGYSsZ1FVCfdgKRGE25UR8ypEAdTvFBYsYgNNnzxqRGnTVJxnUoCH7nC8zAKm9TatkoP2wS2mY7XEQYEMjb?cluster=devnet)
 
 - Class 2: Added metadata to the mint previously created in class 1
-  - spl_metadata: [transaction](https://explorer.solana.com/tx/RwN4r8hVEVYTxkXC2drycHcxpPpaGwHJwwn5RVoRmXxqVzKEo1HDMctYBQZgpWx4jsxux2HBKMkju33QNG3CLwi?cluster=devnet)
-  
+  - spl_metadata: [add metadata transaction](https://explorer.solana.com/tx/RwN4r8hVEVYTxkXC2drycHcxpPpaGwHJwwn5RVoRmXxqVzKEo1HDMctYBQZgpWx4jsxux2HBKMkju33QNG3CLwi?cluster=devnet), [send to cadet](https://explorer.solana.com/tx/2aYEUvNKhHwPkSxyhMrS84aaqq6fRyDXop6X6EzafTnyaW9syVUK9d2XL5Gced21jdC4jQ36uVSbL55rGMh6fX5a?cluster=devnet)
