@@ -1,6 +1,6 @@
 # Coursework for Turbin3
 
-In this repo I will add the code of the class exercices that I've done.
+In this repo I will add the code of the class exercises that I've done.
 
 ## Classes
 
